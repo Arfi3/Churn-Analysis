@@ -1,6 +1,6 @@
 # 📊 Customer Churn Analysis Dashboard
 
-An end-to-end interactive Power BI dashboard analyzing customer churn using the **IBM Telco Customer Churn dataset** (7,043 customers). This project explores *who* is leaving, *why* they leave, and *where* the business should focus its retention efforts — going beyond descriptive charts into actionable business recommendations.
+An end-to-end interactive Power BI dashboard analyzing customer churn using the **IBM Telco Customer Churn dataset** (7,043 customers). This project explores *who* is leaving, *why* they leave, and *where* the business should focus its retention efforts, going beyond descriptive charts into actionable business recommendations.
 
 ---
 
