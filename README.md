@@ -6,19 +6,19 @@ An end-to-end interactive Power BI dashboard analyzing customer churn using the 
 
 ## 🖼️ Dashboard Preview
 
+![Landing Page](https://github.com/Arfi3/Churn-Analysis/blob/main/Gambar/Churn%20Analysis_page-0001.jpg)
+
 | Overview | Churn Analysis |
 |---|---|
-| ![Overview](assets/overview.png) | ![Churn Analysis](assets/churn-analysis.png) |
+| ![Overview](https://github.com/Arfi3/Churn-Analysis/blob/main/Gambar/Churn%20Analysis_page-0002.jpg) | ![Churn Analysis](https://github.com/Arfi3/Churn-Analysis/blob/main/Gambar/Churn%20Analysis_page-0003.jpg) |
 
 | Revenue Analysis | Demographic |
 |---|---|
-| ![Revenue Analysis](assets/revenue-analysis.png) | ![Demographic](assets/demographic.png) |
+| ![Revenue Analysis](https://github.com/Arfi3/Churn-Analysis/blob/main/Gambar/Churn%20Analysis_page-0004.jpg) | ![Demographic](https://github.com/Arfi3/Churn-Analysis/blob/main/Gambar/Churn%20Analysis_page-0005.jpg) |
 
 | Service Usage Analysis | Insights |
 |---|---|
-| ![Service Usage](assets/service-usage.png) | ![Insights](assets/insights.png) |
-
-> Replace the images above with your own exported dashboard screenshots (save them in an `assets/` folder).
+| ![Service Usage](https://github.com/Arfi3/Churn-Analysis/blob/main/Gambar/Churn%20Analysis_page-0006.jpg) | ![Insights](https://github.com/Arfi3/Churn-Analysis/blob/main/Gambar/Churn%20Analysis_page-0007.jpg) ![Insights](https://github.com/Arfi3/Churn-Analysis/blob/main/Gambar/Churn%20Analysis_page-0008.jpg) |
 
 ---
 
